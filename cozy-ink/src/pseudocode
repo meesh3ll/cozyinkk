@@ -1,0 +1,21 @@
+1. tag list (one tag per note) / delete function (HAYLEY)
+    - plus sign on note adds a tag to a set and makes a copy of the note in the tag channel
+    - delete sign on note moves note to trash 
+    - when clicking on tag channel, redirects to new page with tagged notes 
+
+2. note area (KAYLEE)
+    - create a note based off on sizing
+    - make a dictionary: key = title, value = note
+
+3. adding note button / search function (MICHELLE)
+    - note button person: when you click on plus sign it'll show different sizings, and when you click on the sizings it'll trigger a function
+    - text input that finds notes with words searched
+
+
+
+
+some things we could add: 
+    - account system / saving notes to storage
+    - multiple tags per note
+    - deleting tags from all notes
+    - organizing notes by date

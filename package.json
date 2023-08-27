@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "gh-pages": "^6.0.0"
+  },
+  "dependencies": {
+    "react-icons": "^4.10.1"
   }
 }

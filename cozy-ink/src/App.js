@@ -5,6 +5,8 @@ import { TagList } from './TagList';
 import { SearchBar } from './Search';
 import NotesList from './NotesList';
 
+// references: basic foundation for site https://youtu.be/8KB3DHI-QbM?si=hw3ksqeNwo3iHM4M
+// shaking animation for trash can: https://www.w3schools.com/howto/howto_css_shake_image.asp
 function App() {
   const [notes, setNotes] = useState([]);
   const [tagList, setTagList] = useState(() => new Set());
